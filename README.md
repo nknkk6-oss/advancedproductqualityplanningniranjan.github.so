@@ -1,3 +1,21 @@
+## 🚀 Advanced Product Quality Planning (APQP) – Overview
+
+| Phase | Description | Key Deliverables |
+|-------|-------------|------------------|
+| 📝 **1. Plan & Define Program** | Identify customer needs, expectations, and requirements. | 📄 Project scope, 🗣️ Voice of Customer, ⚠️ Risk Assessment |
+| 🛠 **2. Product Design & Development Verification** | Develop and validate product design against requirements. | 🧮 Design FMEA, 🧪 Prototypes, 🧐 Design Reviews |
+| ⚙️ **3. Process Design & Development Verification** | Define and validate manufacturing processes. | 📊 Process Flow Diagram, ⚠️ PFMEA, 📋 Control Plan |
+| ✅ **4. Product & Process Validation** | Confirm product meets requirements in production environment. | 📈 Run-at-rate, 📏 Capability Studies, 📑 Validation Reports |
+| 🔄 **5. Feedback, Assessment & Corrective Action** | Monitor performance and drive continuous improvement. | 📝 Audit Reports, 💡 Lessons Learned, 🔧 Corrective Actions |
+
+---
+
+### 📌 Visual Diagram
+![APQP Diagram](images/8BA8059B-3D7F-41F1-ADE9-46D388F51F02.png)
+
+
+
+
 How Advance Product Quality Planning (APQP) can improve my cold chain operations
 
 For Cold Chain & Frozen Food Manufacturers
