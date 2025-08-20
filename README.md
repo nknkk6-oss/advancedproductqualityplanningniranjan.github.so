@@ -235,3 +235,6 @@ Linkages Across Elements
 	•	Outputs of this step become the inputs for the next APQP phase, especially process design and control planning.
 	•	Cold chain-specific issues (temperature control, spoilage risk, contamination) are built into all elements.
 
+ ---
+🔗 More projects: [Niranjan Kulkarni GitHub Pages](https://nknkk6-oss.github.io/niranjan889/)
+
